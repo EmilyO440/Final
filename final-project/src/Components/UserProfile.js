@@ -1,5 +1,5 @@
 import { Col, Button } from "react-bootstrap";
-import Badge from "./Components/Badge.js";
+import Badge from "./Badge.js";
 import { useState } from "react";
 
 function UserProfile({ user }) {

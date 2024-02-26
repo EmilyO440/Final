@@ -1,6 +1,6 @@
-import UserProfile from "./Components/UserProfile.js";
-import Background from "./Components/Background.js";
-import Navigationbar from "./Navbar.js";
+import UserProfile from "./Components/UserProfile";
+import Background from "./Background";
+import Navigationbar from "./Navbar";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 
 export default function Routing() {
